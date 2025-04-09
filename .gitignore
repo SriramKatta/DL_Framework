@@ -166,4 +166,4 @@ cython_debug/
 !data.zip
 log.txt
 
-images*
+.onnx
