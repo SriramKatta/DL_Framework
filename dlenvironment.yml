@@ -1,0 +1,17 @@
+name: DLEx
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - scikit-learn==1.1.3
+  - scikit-image
+  - scipy
+  - tabulate
+  - pandas
+  - torch 
+  - torchvision 
+  - torchaudio
+  - onnx
+  - onnxruntime
+
